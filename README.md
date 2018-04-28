@@ -1,5 +1,5 @@
-## MakeAppMaterial
-#Udacity project 5 
+# MakeAppMaterial
+## Udacity project 5 
 The design project shows usage of material design principles. Some of them are:
 
     1. Co-ordinator layout added with scroll effects in ArticleListActivity(MainActivity) with Appbarlayout
