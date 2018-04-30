@@ -14,10 +14,11 @@ The design project shows usage of material design principles. Some of them are:
   - Responsive Design for phones and tablets.
  
  Please see here what the screens look like:
+ - MainView
     
    ![Main View](https://github.com/vjauckus/MakeAppMaterial/blob/master/XYZReader_main.png)
     
-    
+ - XYZReader Details   
    ![XYZReader Details](https://github.com/vjauckus/MakeAppMaterial/blob/master/XYZReader_Details.png)
     
     
