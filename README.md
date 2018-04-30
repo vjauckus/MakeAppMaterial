@@ -15,9 +15,9 @@ The design project shows usage of material design principles. Some of them are:
  
  Please see here what the screens look like:
     
-   ![Main](https://github.com/vjauckus/MakeAppMaterial/blob/master/XYZReader_MainView)
+   ![Main View](https://github.com/vjauckus/MakeAppMaterial/blob/master/XYZReader_main.png)
     
     
-   ![XYZReader Details](https://github.com/vjauckus/PopMovies_Stage_2/blob/master/XYZReader_Details)
+   ![XYZReader Details](https://github.com/vjauckus/MakeAppMaterial/blob/master/XYZReader_Details.png)
     
     
